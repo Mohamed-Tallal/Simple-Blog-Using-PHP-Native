@@ -1,0 +1,34 @@
+.nav-style{
+    background-color: bisque !important;
+    border: 1px solid #99A3A4 ;
+
+}
+.contant{
+    margin-top: 50px;
+    
+}
+.move-li{
+    margin-left: 25px;
+}
+.card-style{
+    text-align: center;
+    margin-bottom: 30px;
+}
+.contant  img{
+    padding: 20px;
+}
+.contant .edit-font{
+    padding-top: 8px;
+    color: cadetblue;
+}
+.contant .edit-font i{
+padding: 15px 12px 25px 8px;
+}
+.contant .card-ul{
+    margin:0px;
+    padding: 0px;
+}
+.contant .post{
+    text-align: center;
+    margin-top: -22px;
+}
